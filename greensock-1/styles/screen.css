@@ -1,0 +1,13 @@
+.circle {
+	position: absolute;
+	border-radius: 100%;
+}
+
+.large {
+	width: 100px;
+	height: 100px;
+}
+
+.red {
+	background-color: red;
+}
